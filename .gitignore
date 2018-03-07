@@ -1,2 +1,5 @@
 results/jan.dat
 results/mar.dat
+*.ss
+*.data
+!final.data
